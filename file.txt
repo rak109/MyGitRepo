@@ -1,2 +1,6 @@
 "Hello, Git"
+<<<<<<< HEAD
 Some changes changessssssssssssssssss!
+=======
+"Hi Susmitha , dharshini."
+>>>>>>> c079ec1d31568b521e4da6b4a986b60e02b2a5da
